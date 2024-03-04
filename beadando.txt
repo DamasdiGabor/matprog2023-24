@@ -1,0 +1,70 @@
+ Általános követelmények:
+- Csapat és témaválasztás Március 14-ig.
+- A beadandó GitHubon való megosztása.
+- A GitHub readme részét rendesen írjátok meg! A program megérthető és futtatható legyen a readme alapján! Amennyire lehetséges írjatok le egy példa futtatást a kimenettel együtt. Ha ez nincs rendesen megcsinálva, nem lehet ötös a jegy.
+- A beadandó bemutatása 5-10 percben az utolsó órán.
+- Határidő: 1 héttel a bemutató előtt.  
+
+A következő témák választhatók, de saját témát is hozhattok. Ebben az esetben írjatok egy emailt róla és megbeszéljük.
+
+1. Adatelemzés és vizualizáció.
+Válasszatok egy jó témát, mutassátok be egy nagyon jól kidolgozott jupyter notebookban. Pl a feladatot most Covid esetszámok alakulására írom, de lehet más is.
+
+Követlemények:
+- jó témaválasztás, a témát a csapat megalakulásakor el kell dönteni, és Gábornak elküldeni
+- adatgyűjtés
+- statisztikai elemzés az adatokról
+- növekedés, terjedés matematikai elemzése, SIR model
+- vírus terjedésének vizualizációja
+- konkluzió levonása
+- egy notebook elkészítése, mely alkalmaz komolyabb adatvizualizáció eszközöket pl, Bokeh, Seaborn
+
+Egyéb témák: kriptovaluták értékváltozása, árfolyamok elemézése, stb
+
+
+2. Sakkfeladvány megoldó.
+
+Írjatok egy saját sakkfeladvány megoldó programot. A beadandó lényege nem a sakktábla, lépések és szabályok megalkotása, hanem hogy a program tudjon feladványokat megoldani. Pl a következő csomagot használhatjátok https://python-chess.readthedocs.io/en/latest/.
+
+Követelmények:
+- A program képes legyen befogadni egy sakk feladványt.
+- A program legyen képes 3 lépéses feladványokat megoldani. Azaz, ha 3 lépésen belül biztosan megnyerhető egy állás akkor azt nyerje is meg.
+
+
+3. Játék matekos algoritmussal
+Készítsetek egy játékot a Pygame modul segítségével, mely felhasznál érdekes matekos algoritmusokat, mint például A* algoritmus útkeresésre.
+Követlemények:
+- Egy játék megvalósítása Pygame, vagy hasonló modul segítségével
+- A játék működésében játszon szerepet valamilyen érdekesebb matematikai algoritmus, melyet ti magatok írtok meg!
+- Példák: útkeresés, egyszerű fizika szimuláció, döntési fák, matekon alapuló stratégia a gép részéről, stb..
+
+
+4. Egy kriptológia/kriptográfiai módszer bemutatása
+Mutassatok be a kriptológiai/kriptográfiai módszert és a mögöttes matematikát. Pl Enigma működése és feltörése.
+Követelmények:
+- Kódolás/dekódolás bemutatása
+- Feltörési módszerek és vagy biztonsági elemézés
+- Háttérben lévő matematika bemutatása.  
+- egy notebook elkészítése, mely alkalmaz komolyabb adatvizualizáció eszközöket pl, Bokeh, Seaborn
+
+5.  Saját ötlet
+Követelmények:
+- Legyen benne matek és programozás
+Egy csomó ötlet van itt: https://www.math.colostate.edu/~adams/teaching/math435spr2017/ProjectIdeas.pdf
+Az AI-ok, mint a chatgpt, is elég jó ötleteket tudnak adni.
+
+Pár szebb példa korábbi évekből:
+https://github.com/tali2001/MatProgCsom-hf
+https://github.com/zombyguy/ez-egy-projekt
+https://github.com/SupersonicBathroomRug/Sudoku_Project
+
+Egyéb korábbi projektek, ötlet gyanánt:
+- Rubik kocka megoldó.
+- Fekete macska kártyajáték stratégiáinak összehasonlítása.
+- Sudoku megoldók különleges stratégiával.
+- 15-ös tologatós játék.
+- Tic tac toe elemzés.
+- Kártya számolás elemzése
+- Wave function collapse algoritmus bemutatása
+- Geogebra szerű program készítése
+- Dáma program
