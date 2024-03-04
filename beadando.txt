@@ -1,5 +1,5 @@
  Általános követelmények:
-- Csapat és témaválasztás Március 14-ig.
+- Csapat és témaválasztás Március 14-ig. Egy csapat legfeljebb három fős lehet. 
 - A beadandó GitHubon való megosztása.
 - A GitHub readme részét rendesen írjátok meg! A program megérthető és futtatható legyen a readme alapján! Amennyire lehetséges írjatok le egy példa futtatást a kimenettel együtt. Ha ez nincs rendesen megcsinálva, nem lehet ötös a jegy.
 - A beadandó bemutatása 5-10 percben az utolsó órán.
