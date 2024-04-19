@@ -47,7 +47,14 @@ Követelmények:
 - Háttérben lévő matematika bemutatása.  
 - egy notebook elkészítése, mely alkalmaz komolyabb adatvizualizáció eszközöket pl, Bokeh, Seaborn
 
-5.  Saját ötlet
+5. Numberlink
+Egy megoldó algoritmus elkészítése a Numberlink játékhoz. Részletek : https://en.wikipedia.org/wiki/Numberlink
+Követelmények
+- Egy minél ügyesebb megoldó elkészítése a numberlink játékhoz
+- Algoritmus bemutatása
+- Vizualizáció
+
+6.  Saját ötlet
 Követelmények:
 - Legyen benne matek és programozás
 Egy csomó ötlet van itt: https://www.math.colostate.edu/~adams/teaching/math435spr2017/ProjectIdeas.pdf
@@ -57,6 +64,8 @@ Pár szebb példa korábbi évekből:
 https://github.com/tali2001/MatProgCsom-hf
 https://github.com/zombyguy/ez-egy-projekt
 https://github.com/SupersonicBathroomRug/Sudoku_Project
+
+
 
 Egyéb korábbi projektek, ötlet gyanánt:
 - Rubik kocka megoldó.
